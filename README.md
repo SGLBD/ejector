@@ -2,11 +2,14 @@
   <img src="ejector-icon.png" width="120" height="120" alt="推出器应用图标">
   <h1>推出器</h1>
   <p>一键退出关联应用，安全推出外接硬盘。</p>
+  <p><strong><a href="https://github.com/SGLBD/ejector/releases/download/v0.2.1/Ejector-v0.2.1-macOS-universal.zip">下载 macOS 通用版（v0.2.1）</a></strong> · <a href="https://github.com/SGLBD/ejector/releases">所有版本</a></p>
 </div>
 
 ## 项目状态
 
-目前提供 macOS 预览版，支持 macOS 13 及以上版本，包含 Apple 芯片和 Intel 两种架构。[下载预览版](https://github.com/SGLBD/ejector/releases)
+目前提供 macOS 预览版，支持 macOS 13 及以上版本，包含 Apple 芯片和 Intel 两种架构。下载后解压，把「推出器」拖入「应用程序」。
+
+安装包也可在 [Release 的 Assets](https://github.com/SGLBD/ejector/releases/tag/v0.2.1) 下载。绿色 **Code → Download ZIP** 下载的是仓库文件。
 
 ## 为什么做「推出器」
 
